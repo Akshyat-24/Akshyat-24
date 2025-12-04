@@ -52,8 +52,8 @@ More coming soon 💛
 ## 📬 Connect With Me
 
 [![GitHub followers](https://img.shields.io/github/followers/Akshyat-24?label=Follow&style=social)](https://github.com/Akshyat-24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-bahuguna006/)
-[![Mail](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshyat-kumar/))
+[![Mail](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail)](mailto:akshyatkumar2024@example.com)
 
 ---
 
