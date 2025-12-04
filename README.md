@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Heyyy, I’m Akshyat
 
-<!--
-**Akshyat-24/Akshyat-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a dev who is very much into code!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+🚀 Full Stack dev in the making  
+🟨 Currently learning JavaScript  
+🎨 I love building cool UI  
+🧠 Sleep? No, I debug
+
+---
+
+## 🛠️ Tech Stack
+
+<div style="display: flex; gap: 30px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" />
+</div>
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Akshyat-24&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📂 Featured Projects 🚀
+
+| Project | Description |
+|--------|-------------|
+| **MeTube** | My media-sharing web project (adding custom improvements & features) |
+| **Demo-FullStack-Project** | A learning project for CRUD, authentication & UI |
+| **Resume-Web** | Minimal personal website built using HTML + CSS |
+
+More coming soon 💛
+
+---
+
+## 📬 Connect With Me
+
+[![GitHub followers](https://img.shields.io/github/followers/Akshyat-24?label=Follow&style=social)](https://github.com/Akshyat-24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ayush-bahuguna006/)
+[![Mail](https://img.shields.io/badge/Email-Me-red?style=flat&logo=gmail)](mailto:your-email@example.com)
+
+---
+
+## ⚡ Favourite Quote
+
+> “Code is like humor. When you have to explain it, it’s bad.”
