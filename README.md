@@ -30,7 +30,7 @@ Just a dev who is very much into code!
 ## 🔥 GitHub Stats
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akshyat-24&theme=dark&hide_border=true)](https://git.io/streak-stats)
+https://streak-stats.demolab.com?user=Akshyat-24&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 </div>
